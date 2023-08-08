@@ -1,4 +1,4 @@
-# Installing-Updating-and-Removing-Software-in-Linux
+# Installing Updating and Removing Software in Linux
 
 
  
